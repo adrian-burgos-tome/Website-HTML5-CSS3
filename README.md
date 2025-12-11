@@ -10,7 +10,7 @@
 
 ## 📄 Descripción del Proyecto
 
-Este proyecto consiste en un **Portafolio Web Personal Responsivo** desarrollado para la clase de Diseño Web. El sitio ha sido construido bajo la metodología **"Mobile First"**, asegurando una experiencia de usuario óptima en dispositivos móviles antes de escalar a pantallas de escritorio.
+Este proyecto consiste en un **Portafolio Web Personal Responsivo** desarrollado para la clase de Lenguaje de Marcas. El sitio ha sido construido bajo la metodología **"Mobile First"**, asegurando una experiencia de usuario óptima en dispositivos móviles antes de escalar a pantallas de escritorio.
 
 El diseño presenta una estética moderna con un tema oscuro (Dark Theme), implementando animaciones fluidas al hacer scroll y una interfaz de usuario limpia y profesional. El objetivo principal es mostrar habilidades técnicas, proyectos recientes y proporcionar un medio de contacto directo.
 
