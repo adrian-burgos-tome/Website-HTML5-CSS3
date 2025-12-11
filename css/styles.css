@@ -251,7 +251,14 @@ nav.close {
 
 /* Active link */
 
+.active-link{
+  color: var(--first-color-light);
+}
 
+
+.active-link::after{
+  width: 30%;
+}
 /*=============== HOME ===============*/
 
 .home__container {
